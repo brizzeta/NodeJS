@@ -1,0 +1,16 @@
+{
+  "name": "brizzeta_human",
+  "version": "1.0.0",
+  "main": "human.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon human.js"
+  },
+  "author": "Nikol",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
